@@ -1,13 +1,14 @@
 package orangeHRM.PageObjects;
 
 import com.microsoft.playwright.Page;
+
 import com.microsoft.playwright.Locator;
 
 /**
  * Page Object representing the Login page of OrangeHRM.
  * Encapsulates selectors and user interactions for the login workflow.
  */
-public class LoginPage {
+public class LoginPage{
 
     private final Page page;
 

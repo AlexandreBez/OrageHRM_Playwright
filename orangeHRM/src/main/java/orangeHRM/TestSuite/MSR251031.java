@@ -7,6 +7,6 @@ import org.junit.platform.suite.api.Suite;
 @SelectClasses({
 
 })
-public class MSR251231 {
+public class MSR251031 {
 
 }
